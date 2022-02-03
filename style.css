@@ -1,0 +1,25 @@
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    text-align: center;
+    background-color: rgb(95, 95, 95);
+    color: white;
+}
+
+.upper-side {
+    display: flex;
+    gap: 20px;
+}
+
+button { 
+    height: 30px;
+    background-color: black;
+    border: 0;
+    color: white;
+}
+
+button:hover {
+    background-color: rgb(6, 56, 35);
+}
